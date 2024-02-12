@@ -121,3 +121,13 @@ No, items located under the "Assessment Set up" section are supposed to be hidde
 
 ---
 
+<!--  8----------------------------------------------->
+<details  style="border: 1px solid #ccc; padding: 5px;">
+
+<summary> <b>Q:</b>How can 0-weight submissions be accommodated in the assignment section of Moodle, given the new Moodle's inability to display items with <= 0 marks to students? If not, would placing them in the weekly topics sections be the only solution? </summary>
+<br> <b>A:</b>
+ The 0-weight submissions need to be placed in the learning section, as they do not appear in the assessment tab. However, one workaround involves including a description and link to the related peer-review activity within the description of the "parent" assessment. This approach ensures visibility of the peer-review activity in the assessment tab's description area, although it remains absent from the assessment overview table.
+</details>
+
+---
+
