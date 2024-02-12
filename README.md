@@ -35,7 +35,7 @@ It's possible that the error occurred because your actions were too rigorous dur
 
 <!--  2---------------------------------------------->
 
-<details open>
+<details style="border: 1px solid #999; padding: 5px;">
 
 <summary> <b>Q:</b> Where should I place the graded weekly exercise in my lesson plan? </summary>
 <br> <b>A:</b>
