@@ -102,10 +102,9 @@ The unit synopsis and learning outcomes are automatically populated from the han
 <!--  6----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
-<summary> <b>Q:</b> How can I populate the unit synopsis and learning outcomes? </summary>
+<summary> <b>Q:</b> Can an assessment be displayed in multiple weekly tabs? For instance, if an assignment spans three weeks, is it feasible to have it appear in each of those three weekly tabs? </summary>
 <br> <b>A:</b>
-The unit synopsis and learning outcomes are automatically populated from the handbook.
-
+No, having multiple submission boxes is equivalent to having multiple assessments.
 </details>
 
 ---
