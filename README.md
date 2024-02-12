@@ -152,7 +152,7 @@ Only administrators have the permission to move content within the overview sect
 <!--  11----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
-<summary> <b>Q:</b> How can huddles or sub-tasks be added to the learning sections?</summary>
+<summary> <b>Q:</b> How can sub-tasks be added to the learning sections?</summary>
 <br> <b>A:</b>
 <p>
 <img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/sub_tasks_learning.png" alt="Fig: Example of the error encountered" />
@@ -161,6 +161,30 @@ Only administrators have the permission to move content within the overview sect
 
 
 Educators have the capability to add sub-tasks under each section. However, ensuring accurate task counts necessitates the enabling of completion tracking in relevant activities and resources.
+</details>
+
+---
+
+<!--  12----------------------------------------------->
+<details  style="border: 1px solid #ccc; padding: 5px;">
+
+<summary> <b>Q:</b> What is the purpose of a bento-box?</summary>
+<br> <b>A:</b>
+
+
+The Bento Box feature will offer a summary for the selected topic
+</details>
+
+---
+
+<!--  13----------------------------------------------->
+<details  style="border: 1px solid #ccc; padding: 5px;">
+
+<summary> <b>Q:</b> What is the purpose of a bento-box?</summary>
+<br> <b>A:</b>
+
+
+The Bento Box feature will offer a summary for the selected topic
 </details>
 
 ---
