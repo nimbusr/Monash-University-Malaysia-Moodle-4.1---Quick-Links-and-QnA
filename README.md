@@ -47,3 +47,12 @@ Once you've adjusted the weight for all relevant H5Ps, the assessment page shoul
 
 </details>
 
+<!--  4----------------------------------------------->
+<details open>
+
+<summary> <b>Q:</b> How can I rearrange items within a section to adjust their order? </summary>
+<br> <b>A:</b>
+If you hover over any activity block now, you will see crosshairs, allowing you to grab it and move it into another section. However, this functionality does not apply to activities in the "Overview" section. To move items from the overview section, you must utilize the mass actions block. It's worth noting that I can now move across subsections as well, which came as a surprise. This functionality may have been updated recently. However, it's essential to have something in the destination subsection for it to work effectively.
+
+
+</details>
