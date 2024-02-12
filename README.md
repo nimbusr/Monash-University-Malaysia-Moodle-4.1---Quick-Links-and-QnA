@@ -1,4 +1,8 @@
 # Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA
+The following Q&A has been curated from conversations among the school change champions and the Edex team. We extend our gratitude to all the participants who have contributed to compiling this set of questions. As a result, many screenshots featured here originate from participants across various schools. We aim to continually update the contents of this repository periodically to ensure its relevance and accuracy.
+
+
+
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
 <!--  1----------------------------------------------->
