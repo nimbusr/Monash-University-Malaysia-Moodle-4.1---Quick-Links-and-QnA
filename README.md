@@ -15,7 +15,7 @@ Special thanks to all participants whose contributions have made this repository
 
 Let's continue to inspire and innovate together!
 
-<h2 style="color:green;">Sub-sub-heading</h2>
+<font color="green">## Sub-sub-heading</font>
 <br>
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
