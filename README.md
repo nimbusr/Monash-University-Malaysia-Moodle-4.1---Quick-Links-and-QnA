@@ -20,7 +20,7 @@ It's possible that the error occurred because your actions were too rigorous dur
 <p>
 <img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/assignment_wraup_section.png" alt="Fig: Example of the error encountered" />
 <br>
-   <b>Fig: Example of the error encountered</b>
+   <b>Fig: Example of the populated assignments sourced from wrapup section.</b>
 </p>
 
 
