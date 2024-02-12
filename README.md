@@ -22,7 +22,7 @@ Let's continue to inspire and innovate together!
 
 <!--  1----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
-<summary> <b>Q:</b> I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?▼
+<summary> <b>Q:</b> I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?
 </summary>
 <br> <b>A:</b>
 <p>
@@ -50,8 +50,9 @@ It's possible that the error occurred because your actions were too rigorous dur
 Yes, you could place the graded weekly exercise at the end of your lesson plan, in the "wrap-up" section and they will show in the assessment summary table. 
 </details>
 
+---
 <!--  3----------------------------------------------->
-<details open>
+<details  style="border: 1px solid #ccc; padding: 5px;">
 
 <summary> <b>Q:</b> Why are H5Ps appearing on my assessment page, even though they shouldn't be? </summary>
 <br> <b>A:</b>
@@ -66,9 +67,9 @@ To fix this, follow these steps:<br>
 Once you've adjusted the weight for all relevant H5Ps, the assessment page should no longer display them.
 
 </details>
-
+---
 <!--  4----------------------------------------------->
-<details open>
+<details  style="border: 1px solid #ccc; padding: 5px;">
 
 <summary> <b>Q:</b> How can I rearrange items within a section to adjust their order? </summary>
 <br> <b>A:</b>
@@ -81,31 +82,31 @@ To rearrange items within a section to adjust their order in Moodle, follow thes
 However, please note that this feature may not work for activities in the "Overview" section. In such cases, you will need to use the mass actions block to move items. Additionally, ensure that there is content present in the destination subsection for seamless movement across subsections.
 
 </details>
-
+---
 <!--  5----------------------------------------------->
-<details open>
+<details  style="border: 1px solid #ccc; padding: 5px;">
 
 <summary> <b>Q:</b> How can I populate the unit synopsis and learning outcomes? </summary>
 <br> <b>A:</b>
 The unit synopsis and learning outcomes are automatically populated from the handbook.
 
 </details>
-
+---
 <!--  6----------------------------------------------->
-<details open>
+<details  style="border: 1px solid #ccc; padding: 5px;">
 
 <summary> <b>Q:</b> How can I populate the unit synopsis and learning outcomes? </summary>
 <br> <b>A:</b>
 The unit synopsis and learning outcomes are automatically populated from the handbook.
 
 </details>
-
+---
 <!--  7----------------------------------------------->
-<details open>
+<details  style="border: 1px solid #ccc; padding: 5px;">
 
 <summary> <b>Q:</b>Are items located under the "Assessment Set up" section visible to students? </summary>
 <br> <b>A:</b>
 No, items located under the "Assessment Set up" section are supposed to be hidden from students.
 
 </details>
-
+---
