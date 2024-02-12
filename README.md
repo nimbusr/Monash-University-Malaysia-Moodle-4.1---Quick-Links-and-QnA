@@ -3,9 +3,9 @@ This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
 
 <details open>
-<summary>I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?
+<summary> <b>Q:</b> I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?
 </summary>
-<br>
+<br> <b>A:</b>
 <img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/miscellaneuos_1.png" alt="Fig: Example of the error encountered" />
 
 
