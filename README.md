@@ -1,5 +1,4 @@
 # Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA
-## Welcome to our Q&A Repository!
 
 ## About
 Welcome to our curated Q&A repository, where valuable insights from school change champions and the Edex team converge. We extend our heartfelt thanks to all participants who have contributed to this collaborative effort.
@@ -15,7 +14,7 @@ Special thanks to all participants whose contributions have made this repository
 
 Let's continue to inspire and innovate together!
 
-<span style="color:green">## Sub-sub-heading</span>
+<h3 style="color: #7CFC00;">Green Subheading</h3>
 <br>
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
