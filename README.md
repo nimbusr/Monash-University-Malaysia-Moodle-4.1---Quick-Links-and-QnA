@@ -1,5 +1,5 @@
 # Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA
-# Welcome to our Q&A Repository!
+## Welcome to our Q&A Repository!
 
 ## About
 Welcome to our curated Q&A repository, where valuable insights from school change champions and the Edex team converge. We extend our heartfelt thanks to all participants who have contributed to this collaborative effort.
@@ -7,15 +7,15 @@ Welcome to our curated Q&A repository, where valuable insights from school chang
 ## Overview
 The following Q&A collection has been meticulously curated from engaging conversations, featuring insights from diverse voices across various schools. This repository serves as a dynamic resource hub, continuously updated to ensure relevance and accuracy.
 
-# Contribution
+### Contribution
 Your input matters! Feel free to contribute additional questions, insights, or updates to enrich this repository further. Together, we can create a comprehensive resource to empower educators and drive positive change in education.
 
-# Acknowledgments
+### Acknowledgments
 Special thanks to all participants whose contributions have made this repository possible. Your dedication and collaboration are invaluable in shaping the future of education.
 
 Let's continue to inspire and innovate together!
 
-# Common questions and answers
+### Common questions and answers
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
 <!--  1----------------------------------------------->
