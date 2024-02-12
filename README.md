@@ -37,11 +37,11 @@ Yes, you could place the graded weekly exercise at the end of your lesson plan, 
 <br> <b>A:</b>
 This is happening because some of your H5Ps are currently set to have a graded value. By default, graded activities show up on the assessment page.
 
-To fix this, follow these steps:
+To fix this, follow these steps:<br> 
 
--- Go to the "Gradebook setup" section.
--- Identify the H5Ps that are causing the issue.
--- Change the weight of each H5P to 0%. This essentially removes their grading value.
+-- Go to the "Gradebook setup" section. <br> 
+-- Identify the H5Ps that are causing the issue. <br> 
+-- Change the weight of each H5P to 0%. This essentially removes their grading value.<br> 
 
 Once you've adjusted the weight for all relevant H5Ps, the assessment page should no longer display them.
 
