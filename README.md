@@ -52,7 +52,12 @@ Once you've adjusted the weight for all relevant H5Ps, the assessment page shoul
 
 <summary> <b>Q:</b> How can I rearrange items within a section to adjust their order? </summary>
 <br> <b>A:</b>
-If you hover over any activity block now, you will see crosshairs, allowing you to grab it and move it into another section. However, this functionality does not apply to activities in the "Overview" section. To move items from the overview section, you must utilize the mass actions block. It's worth noting that I can now move across subsections as well, which came as a surprise. This functionality may have been updated recently. However, it's essential to have something in the destination subsection for it to work effectively.
+To rearrange items within a section to adjust their order in Moodle, follow these steps: <br>
 
+-- Hover over any activity block within the section.<br>
+-- You will notice crosshairs appearing; use them to grab the activity block. <br>
+-- Drag the block to the desired position within the section. <br>
+-- Drop the block in its new position to rearrange the items. <br>
+However, please note that this feature may not work for activities in the "Overview" section. In such cases, you will need to use the mass actions block to move items. Additionally, ensure that there is content present in the destination subsection for seamless movement across subsections.
 
 </details>
