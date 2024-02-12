@@ -7,7 +7,7 @@ Welcome to our curated Q&A repository, where valuable insights from school chang
 ## Overview
 The following Q&A collection has been meticulously curated from engaging conversations, featuring insights from diverse voices across various schools. This repository serves as a dynamic resource hub, continuously updated to ensure relevance and accuracy.
 
-<b> Contribution </b>b>
+<b> Contribution </b>
 Your input matters! Feel free to contribute additional questions, insights, or updates to enrich this repository further. Together, we can create a comprehensive resource to empower educators and drive positive change in education.
 
 <b> Acknowledgments </b>
@@ -76,5 +76,14 @@ To rearrange items within a section to adjust their order in Moodle, follow thes
 -- Drag the block to the desired position within the section. <br>
 -- Drop the block in its new position to rearrange the items. <br>
 However, please note that this feature may not work for activities in the "Overview" section. In such cases, you will need to use the mass actions block to move items. Additionally, ensure that there is content present in the destination subsection for seamless movement across subsections.
+
+</details>
+
+<!--  5----------------------------------------------->
+<details open>
+
+<summary> <b>Q:</b> How can I populate the unit synopsis and learning outcomes? </summary>
+<br> <b>A:</b>
+The unit synopsis and learning outcomes are automatically populated from the handbook.
 
 </details>
