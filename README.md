@@ -51,6 +51,7 @@ Yes, you could place the graded weekly exercise at the end of your lesson plan, 
 </details>
 
 ---
+
 <!--  3----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
@@ -84,7 +85,9 @@ To rearrange items within a section to adjust their order in Moodle, follow thes
 However, please note that this feature may not work for activities in the "Overview" section. In such cases, you will need to use the mass actions block to move items. Additionally, ensure that there is content present in the destination subsection for seamless movement across subsections.
 
 </details>
+
 ---
+
 <!--  5----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
@@ -93,7 +96,9 @@ However, please note that this feature may not work for activities in the "Overv
 The unit synopsis and learning outcomes are automatically populated from the handbook.
 
 </details>
+
 ---
+
 <!--  6----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
@@ -102,7 +107,9 @@ The unit synopsis and learning outcomes are automatically populated from the han
 The unit synopsis and learning outcomes are automatically populated from the handbook.
 
 </details>
+
 ---
+
 <!--  7----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
@@ -111,4 +118,6 @@ The unit synopsis and learning outcomes are automatically populated from the han
 No, items located under the "Assessment Set up" section are supposed to be hidden from students.
 
 </details>
+
 ---
+
