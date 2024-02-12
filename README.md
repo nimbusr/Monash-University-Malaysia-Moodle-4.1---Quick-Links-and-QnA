@@ -99,3 +99,12 @@ The unit synopsis and learning outcomes are automatically populated from the han
 
 </details>
 
+<!--  7----------------------------------------------->
+<details open>
+
+<summary> <b>Q:</b>Are items located under the "Assessment Set up" section visible to students? </summary>
+<br> <b>A:</b>
+No, items located under the "Assessment Set up" section are supposed to be hidden from students.
+
+</details>
+
