@@ -155,11 +155,12 @@ Only administrators have the permission to move content within the overview sect
 <summary> <b>Q:</b> How can huddles or sub-tasks be added to the learning sections?</summary>
 <br> <b>A:</b>
 <p>
-<img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/sub-tasks-learning.png" alt="Fig: Example of the error encountered" />
+<img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/sub_tasks_learning.png" alt="Fig: Example of the error encountered" />
  <b>Fig: An example of multiple sub-tasks under the three learning sections, this enables tracking of learning journey.</b>
 </p>
 
 
-Educators have the capability to add sub-tasks under each section. However, ensuring accurate task counts necessitates the enabling of completion tracking in relevant activities and resources. </details>
+Educators have the capability to add sub-tasks under each section. However, ensuring accurate task counts necessitates the enabling of completion tracking in relevant activities and resources.
+</details>
 
 ---
