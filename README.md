@@ -143,9 +143,8 @@ No, items located under the "Assessment Set up" section are supposed to be hidde
 <!--  10----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
-<summary> <b>Q:</b>How are the assessments arranged? </summary>
+<summary> <b>Q:</b> How can lecturers move content within the overview section of the course? </summary>
 <br> <b>A:</b>
- The dynamic page for the assessment summary is automatically sorted based on the submission deadline in temporal order.
-</details>
+Only administrators have the permission to move content within the overview section. Lecturers do not have the ability to perform this action. Please raise an Asana request for this. </details>
 
 ---
