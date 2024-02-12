@@ -191,3 +191,17 @@ Please refer to this guide for instructions on how to set groups and groupings i
 </details>
 
 ---
+
+<!--  14 tilll 5 dec ----------------------------------------------- >
+<details  style="border: 1px solid #ccc; padding: 5px;">
+
+<summary> <b>Q:</b>How can I rename or remove the weekly materials between weeks in Moodle? For instance, if a staff member wishes to move week 11 to week 1, resulting in week 1 becoming week 2, week 2 becoming week 3, and so forth.</summary>
+<br> <b>A:</b>
+
+
+You can move sections from the Learning tab without the need to manually renumber the weeks. The numbering will be adjusted automatically.
+
+
+</details>
+
+---
