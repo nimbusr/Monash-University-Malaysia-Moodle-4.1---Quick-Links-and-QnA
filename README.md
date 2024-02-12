@@ -67,7 +67,9 @@ To fix this, follow these steps:<br>
 Once you've adjusted the weight for all relevant H5Ps, the assessment page should no longer display them.
 
 </details>
+
 ---
+
 <!--  4----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
