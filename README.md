@@ -1,7 +1,7 @@
 # Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
-#   1---------------------------------------------
+<!--  1----------------------------------------------->
 <details open>
 <summary> <b>Q:</b> I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?
 </summary>
@@ -11,7 +11,8 @@ This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
 It's possible that the error occurred because your actions were too rigorous during the migration. It's a good idea to find a balance between thoroughness and avoiding unintended consequences. In this case, moving the page backward and redoing it seems to have resolved the issue.
 </details>
-# 2------------------------------------------
+<!--  2---------------------------------------------->
+
 <details open>
 
 <summary> <b>Q:</b> Where should I place the graded weekly exercise in my lesson plan?
@@ -21,5 +22,5 @@ It's possible that the error occurred because your actions were too rigorous dur
 
 Yes, you could place the graded weekly exercise at the end of your lesson plan, in the "wrap-up" section and they will show in the assessment summary table. 
 </details>
-# 3------------------------------------------
 
+<!--  3----------------------------------------------->
