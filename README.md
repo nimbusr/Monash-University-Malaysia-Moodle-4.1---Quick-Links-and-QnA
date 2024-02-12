@@ -2,7 +2,7 @@
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 <details open>
 <summary>I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?
-![Fig: Example of the error encountered](https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/tree/main/Images/miscellaneuos_1.png)
+![Fig: Example of the error encountered](https://raw.githubusercontent.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/tree/main/Images/miscellaneuos_1.png)
 
 </summary>
 <br>
