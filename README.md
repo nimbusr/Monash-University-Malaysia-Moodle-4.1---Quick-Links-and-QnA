@@ -172,7 +172,7 @@ Educators have the capability to add sub-tasks under each section. However, ensu
 <br> <b>A:</b>
 
 
-The Bento Box feature will offer a summary for the selected topic
+The Bento Box feature will offer a summary for the selected topic.
 </details>
 
 ---
@@ -180,11 +180,14 @@ The Bento Box feature will offer a summary for the selected topic
 <!--  13----------------------------------------------->
 <details  style="border: 1px solid #ccc; padding: 5px;">
 
-<summary> <b>Q:</b> What is the purpose of a bento-box?</summary>
+<summary> <b>Q:</b> How can I access groupings?</summary>
 <br> <b>A:</b>
 
 
-The Bento Box feature will offer a summary for the selected topic
+Please refer to this guide for instructions on how to set groups and groupings in Moodle:
+
+[Set Groups and Groupings in Moodle](https://www.monash.edu/learning-teaching/TeachHQ/moodle/moodle-setup/how-to/set-groups-and-groupings-in-moodle#tabs__3254627-01)
+
 </details>
 
 ---
