@@ -15,7 +15,7 @@ It's possible that the error occurred because your actions were too rigorous dur
 
 <details open>
 
-<summary> <b>Q:</b> Where should I place the graded weekly exercise in my lesson plan?
+<summary> <b>Q:</b> Where should I place the graded weekly exercise in my lesson plan? </summary>
 <br> <b>A:</b>
 <img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/assignment_wraup_section.png" alt="Fig: Example of the error encountered" />
 
