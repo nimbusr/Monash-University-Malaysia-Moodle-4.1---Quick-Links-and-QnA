@@ -131,3 +131,22 @@ No, items located under the "Assessment Set up" section are supposed to be hidde
 
 ---
 
+<!--  9----------------------------------------------->
+<details  style="border: 1px solid #ccc; padding: 5px;">
+
+<summary> <b>Q:</b>How are the assessments arranged? </summary>
+<br> <b>A:</b>
+ The dynamic page for the assessment summary is automatically sorted based on the submission deadline in temporal order.
+</details>
+
+---
+
+<!--  10----------------------------------------------->
+<details  style="border: 1px solid #ccc; padding: 5px;">
+
+<summary> <b>Q:</b>How are the assessments arranged? </summary>
+<br> <b>A:</b>
+ The dynamic page for the assessment summary is automatically sorted based on the submission deadline in temporal order.
+</details>
+
+---
