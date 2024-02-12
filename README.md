@@ -12,6 +12,8 @@ This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 </p>
 It's possible that the error occurred because your actions were too rigorous during the migration. It's a good idea to find a balance between thoroughness and avoiding unintended consequences. In this case, moving the page backward and redoing it seems to have resolved the issue.
 </details>
+
+
 <!--  2---------------------------------------------->
 
 <details open>
@@ -29,3 +31,19 @@ Yes, you could place the graded weekly exercise at the end of your lesson plan, 
 </details>
 
 <!--  3----------------------------------------------->
+<details open>
+
+<summary> <b>Q:</b> Why are H5Ps appearing on my assessment page, even though they shouldn't be? </summary>
+<br> <b>A:</b>
+This is happening because some of your H5Ps are currently set to have a graded value. By default, graded activities show up on the assessment page.
+
+To fix this, follow these steps:
+
+-- Go to the "Gradebook setup" section.
+-- Identify the H5Ps that are causing the issue.
+-- Change the weight of each H5P to 0%. This essentially removes their grading value.
+
+Once you've adjusted the weight for all relevant H5Ps, the assessment page should no longer display them.
+
+</details>
+
