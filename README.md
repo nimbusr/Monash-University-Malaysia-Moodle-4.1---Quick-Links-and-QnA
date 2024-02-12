@@ -6,15 +6,15 @@ Welcome to our curated Q&A repository, where valuable insights from school chang
 ## Overview
 The following Q&A collection has been meticulously curated from engaging conversations, featuring insights from diverse voices across various schools. This repository serves as a dynamic resource hub, continuously updated to ensure relevance and accuracy.
 
-### Contribution
+<b> Contribution </b>b>
 Your input matters! Feel free to contribute additional questions, insights, or updates to enrich this repository further. Together, we can create a comprehensive resource to empower educators and drive positive change in education.
 
-### Acknowledgments
+<b> Acknowledgments </b>
 Special thanks to all participants whose contributions have made this repository possible. Your dedication and collaboration are invaluable in shaping the future of education.
 
 Let's continue to inspire and innovate together!
 
-<h3 style="color: #7CFC00;">Green Subheading</h3>
+# Q n A
 <br>
 This is a repository for Moodle 4.1 essentials for Monash University Malaysia
 
