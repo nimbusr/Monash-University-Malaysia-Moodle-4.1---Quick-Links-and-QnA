@@ -21,7 +21,7 @@ Let's continue to inspire and innovate together!
 <br>
 
 <!--  1----------------------------------------------->
-<details open>
+<details  style="border: 1px solid #ccc; padding: 5px;">
 <summary> <b>Q:</b> I encountered an error while migrating some content. Could it be because I was too rigorous in my approach?
 </summary>
 <br> <b>A:</b>
