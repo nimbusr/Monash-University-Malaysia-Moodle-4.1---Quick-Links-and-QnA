@@ -17,14 +17,12 @@ It's possible that the error occurred because your actions were too rigorous dur
 
 <summary> <b>Q:</b> Where should I place the graded weekly exercise in my lesson plan? </summary>
 <br> <b>A:</b>
+<p>
 <img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/assignment_wraup_section.png" alt="Fig: Example of the error encountered" />
 <br>
-
-<p>
-  <img src="https://github.com/nimbusr/Monash-University-Malaysia-Moodle-4.1---Quick-Links-and-QnA/blob/main/Images/miscellaneuos_1.png" alt="Fig: Example of the error encountered" />
-  <br>
-  Fig: Example of the error encountered
+   <b>Fig: Example of the error encountered</b>
 </p>
+
 
 Yes, you could place the graded weekly exercise at the end of your lesson plan, in the "wrap-up" section and they will show in the assessment summary table. 
 </details>
